@@ -1,0 +1,34 @@
+/*   Desafio 01   */
+alert('Boas vindas ao nosso site!');
+
+/*   Desafio 02   */
+let nome = 'Lua';
+
+/*   Desafio 03   */
+let idade = 25;
+
+/*   Desafio 04   */
+let numeroDeVendas = 50;
+
+/*   Desafio 05   */
+let saldoDisponivel = 1000;
+
+/*   Desafio 06   */
+alert('Erro! Preencha todos os campos.');
+
+/*   Desafio 07   */
+let mensagemDeErro = 'Erro! Preencha todos os campos.';
+alert(mensagemDeErro);
+
+/*   Desafio 08   */
+let nomeDoUsuario = prompt('Qual é o seu nome?');
+console.log(nomeDoUsuario);
+
+/*   Desafio 09   */
+let idadeDoUsuario = prompt('Qual é a sua idade?');
+console.log(idadeDoUsuario);
+
+/*   Desafio 10   */
+if (idadeDoUsuario >= 18) {
+    alert('Pode tirar a habilitação');
+}

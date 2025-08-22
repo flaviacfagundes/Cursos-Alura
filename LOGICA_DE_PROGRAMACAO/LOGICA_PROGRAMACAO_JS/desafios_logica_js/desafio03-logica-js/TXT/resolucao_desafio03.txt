@@ -1,0 +1,32 @@
+// DESAFIO 01
+console.log('DESAFIO 01');
+let contador1 = 1;
+while (contador1 < 11) {
+    console.log(contador1);
+    contador1++;
+}
+
+// DESAFIO 02
+console.log('DESAFIO 02');
+let contador2 = 10;
+while (contador2 > -1) {
+    console.log(contador2);
+    contador2--;
+}
+
+// DESAFIO 03
+console.log('DESAFIO 03');
+let contagem1 = prompt('Digite um número para iniciar a contagem regressiva: ');
+while (contagem1 > -1) {
+    console.log(contagem1);
+    contagem1--;
+}
+
+// DESAFIO 04
+console.log('DESAFIO 04');
+let contagem2 = 0;
+let numeroSolicitado = parseInt(prompt('Digite um número para iniciar a contagem progressiva:'));
+while ((contagem2 != (numeroSolicitado + 1))) {
+    console.log(contagem2);
+    contagem2++;
+}
