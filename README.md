@@ -1,4 +1,4 @@
-# Curso | Lógica de Programação com Javascript | Alura
+# Cursos de Javascript | Alura
 
 Bem-vindo(a) ao meu repositório!  
 Aqui irei armazenar os **projetos e desafios** que estou desenvolvendo durante meu aprendizado na plataforma [Alura](https://www.alura.com.br/?srsltid=AfmBOorEgcvxyN0qGx6ZuwfoQUOe3aJ7CiA4rtMQ8wcZzl7AgGdJdFlG).  
