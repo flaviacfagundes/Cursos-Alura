@@ -26,6 +26,8 @@
     console.log(`Primeiro Número: ${numero1}`);
     let numero2 = parseInt(prompt('Digite mais um número inteiro:'));
     console.log(`Segundo Número: ${numero2}`);
+
+    // DESAFIO 06
     let resultado = numero1 + numero2;
     console.log(`Resultado da soma: ${resultado}`);
     alert(`O resultado da soma entre esses dois números é: ${resultado}`);

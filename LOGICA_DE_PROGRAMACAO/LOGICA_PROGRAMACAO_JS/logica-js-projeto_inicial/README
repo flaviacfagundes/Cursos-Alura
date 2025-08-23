@@ -41,6 +41,7 @@ DESENVOLVENDO O JOGO
         Ou clica 'ctrl + shif + c' e clica em Console.
         Ou clica F12 no telclado.
     'console.log()' é uma ferramento do desenvolvedor, não do usuário.
+        Para limar o console basta utilizar o atalho "ctrl + L"
     É importante lembrar que, quando o projeto ficar disponível para todas as pessoas, o que chamamos no contexto de software de ambiente de produção, 
     os comandos console.log devem ser removidos ou desabilitados, pois podem causar problemas de desempenho e segurança.
 
@@ -106,7 +107,7 @@ DESENVOLVENDO O JOGO
 
     'RANDOM'
     Para gerar um número aleatório, usamos o 'Math.random()'.
-    Porém, ele gera um número aleatório entre 0 e 1. Para gerar um número aleatório entre 0 e 10, por exemplo, usamos o 'Math.random() * 10'.
+    Porém, ele gera um número pseudo aleatório entre 0 e 1. Para gerar um número aleatório entre 0 e 10, por exemplo, usamos o 'Math.random() * 10'.
     Só que no 'Math.random()', o número 1 é ignorado, então para gerar um número aleatório entre 0 e 10, por exemplo, apenas somamos 1.
         'Math.random() * 10 + 1'
     Quando gerado esse número, vai ter um número inteiro depois do ponto, porém ainda vai continuar com vários números depois dele.

@@ -16,6 +16,10 @@ CURSO ALURA - LÓGICA DE PROGRAMAÇÃO COM JAVASCRIPT (LISTAS E FUNÇÕES)
     'function'
     Vai criar uma função no Javascript que vai executar o que for pedido quando for chamada no HTML.
     As funções são importantes para evitar repetições de códigos, e para facilitar a manutenção do código.
+    Elas podem ou não receber parâmetros. Os parâmetros é(são) o(s) valor(es) que ficam dentro dos parenteses antes de abrir as chaves {}
+        SEM parâmetros → é necessário apenas chamar a função. Por exemplo: chamarFuncao();
+        COM parâmetros → ao chamar a função é necessário colocar o valor que será subtituido no HTML, na ordem que eles foram definidos na função
+            Por exemplo: callFuncion('texto do parâmetro', 10);
 
     'input'
     É a entrada de dados, onde o usuário vai inserir alguma informação de acordo com o tipo de input que foi definido.
