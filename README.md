@@ -1,26 +1,30 @@
-# Curso Javascript | Alura
+# 📚 Cursos da Alura
 
-Bem-vindo(a) ao meu repositório!  
-Aqui irei armazenar os **projetos e desafios** que estou desenvolvendo durante meu aprendizado na plataforma [Alura](https://www.alura.com.br/?srsltid=AfmBOorEgcvxyN0qGx6ZuwfoQUOe3aJ7CiA4rtMQ8wcZzl7AgGdJdFlG).  
-
-O objetivo deste espaço é acompanhar minha evolução nos estudos, registrar códigos de aprendizado e colocar em prática os conceitos adquiridos ao longo do curso.  
+Este repositório contém os materiais, anotações e projetos desenvolvidos durante os cursos realizados na plataforma Alura. A ideia é centralizar o aprendizado em um único lugar, facilitando a organização e o acompanhamento da evolução nos estudos.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🚀 Objetivo
 
-Durante o curso, estou trabalhando com diversas linguagens e ferramentas. Algumas delas:
+O objetivo deste repositório é:
 
-- ⚡ **JavaScript**
-- 🌐 HTML5 & CSS3  
-- 📦 Git & GitHub  
+- Consolidar o conhecimento adquirido nos cursos
+- Servir como referência futura
+- Compartilhar aprendizados com a comunidade
 
 ---
 
-## 🎯 Objetivos
+## 🧠 Cursos Concluídos
 
-✔ Consolidar o aprendizado com projetos práticos  
-✔ Documentar minha evolução na área de desenvolvimento  
-✔ Criar um portfólio de estudos que sirva como referência futura  
+- [x] Lógica de Programação com JavaScript
+- [x] Lógica de Programação: explore funções e listas
+
+---
+
+## 📌 Observações
+
+- Este repositório é de uso pessoal e educacional.
+- Os conteúdos aqui presentes são baseados nos cursos da Alura, mas com adaptações e anotações próprias.
+- Nenhum material protegido por direitos autorais foi reproduzido sem permissão.
 
 ---
