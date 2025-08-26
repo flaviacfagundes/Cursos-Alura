@@ -17,8 +17,11 @@ O objetivo deste repositório é:
 
 ## 🧠 Cursos Concluídos
 
+- [x] Começando em Programação: carreira e primeiros passos
 - [x] Lógica de Programação com JavaScript
 - [x] Lógica de Programação: explore funções e listas
+- [x] Git e GitHub: compartilhando e colaborando em projetos
+- [ ] Lógica de Programação: praticando com desafios
 
 ---
 

@@ -126,11 +126,11 @@ Lembre-se de que o comando `git remote` é fundamental para a gestão de conexõ
 
 - **revert** → O `git revert` cria um novo commit que desfaz as alterações feitas por um commit específico, permitindo que você volte a uma versão anterior do código sem perder o histórico de commits.
 
-                git revert id-do-commit
+        git revert id-do-commit
 
 - **reset** → Esse comando é útil quando você quer remover commits que não fazem mais sentido
 
-                git reset --hard id-do-commit-anterior
+        git reset --hard id-do-commit-anterior
 
 ---
 
