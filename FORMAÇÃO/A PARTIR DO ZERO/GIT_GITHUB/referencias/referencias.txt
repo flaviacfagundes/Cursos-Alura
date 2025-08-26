@@ -1,0 +1,25 @@
+
+LIVRO
+    https://www.casadocodigo.com.br/pages/sumario-git-github
+
+DOCUMENTAÇÃO
+    https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-O-B%C3%A1sico-do-Git
+
+DOCUMENTAÇÃO
+    https://www.conventionalcommits.org/pt-br/v1.0.0-beta.4/
+
+FERRAMENTA
+    https://www.toptal.com/developers/gitignore/
+
+FERRAMENTA
+    https://www.markdownguide.org/
+
+ARTIGO
+    https://www.alura.com.br/artigos/como-trabalhar-com-markdown?_gl=1*j8tztu*_ga*NzU2NTAyMDMyLjE2ODcxOTg5NTE.*_ga_1EPWSW3PCS*MTcwMTI4NjgzMy4yOTAuMS4xNzAxMjg5MzM1LjAuMC4w*_fplc*ZXM3TVQzbmI1bSUyQlhHeUZNY1h6VHFIdHZsc1BidGUwV1FWbFMzUm41VGxpSjk2dGl0M1o4OUVuUkdNMVJMN1p2MEtxWE1TV1ZsdFc0Y3A3cVdPYksxcWdUQllCb25CVDZpTGpIVENaakQ0QXlBRW5BbDQ1VTBkRU1NY00wUnclM0QlM0Q
+
+LIVRO
+    https://www.oreilly.com/library/view/introducing-github/9781491949801/
+
+LIVRO
+    https://www.oreilly.com/library/view/learning-git/9781098133900/?_gl=1*1k0j59z*_ga*MTc2ODczMTk1MS4xNjk4NDI5NjAw*_ga_092EL089CH*MTcwMTcxODU5OC4yLjEuMTcwMTcxODc3NS41My4wLjA.
+

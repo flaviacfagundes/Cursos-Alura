@@ -111,10 +111,26 @@ Lembre-se de que o comando `git remote` é fundamental para a gestão de conexõ
 
         git commit -m "alteracao-feita"
 
+- **Editar o nome do último commit** → adicionando o parâmetro `amend` no commit ele vai alterar o último commit (nome do commit) para um novo que vai ser definido.
+
+        git commit --amend -m "novo-nome"
+
 - **log** → Vai mostrar o histórico de alterações que foram feitas naquele repositório, quem fez as mudanças, a data das mudanças e o nome do commit.
 
         git log
 
+
+---
+
+# GIT REVERT | GIT RESET 
+
+- **revert** → O `git revert` cria um novo commit que desfaz as alterações feitas por um commit específico, permitindo que você volte a uma versão anterior do código sem perder o histórico de commits.
+
+                git revert id-do-commit
+
+- **reset** → Esse comando é útil quando você quer remover commits que não fazem mais sentido
+
+                git reset --hard id-do-commit-anterior
 
 ---
 
