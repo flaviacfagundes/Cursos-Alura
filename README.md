@@ -1,6 +1,7 @@
-# 📚 Cursos da Alura
 
-Este repositório contém os materiais, anotações e projetos desenvolvidos durante os cursos realizados na plataforma Alura. A ideia é centralizar o aprendizado em um único lugar, facilitando a organização e o acompanhamento da evolução nos estudos.
+# 📚 Formação Alura - A Partir do Zero: Iniciante em Programação
+
+Este repositório reúne os conteúdos, projetos e anotações que estou desenvolvendo durante a formação **A partir do zero: iniciante em programação** na plataforma Alura. A formação é composta por diversos cursos e artigos que abordam a **Lógica de Programação**, **GitHub** e **Javascript**.
 
 ---
 
