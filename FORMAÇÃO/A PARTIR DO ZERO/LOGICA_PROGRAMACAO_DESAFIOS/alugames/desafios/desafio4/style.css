@@ -1,0 +1,27 @@
+.board-informations {
+    width: 95vw;
+    height: 97vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fields {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 3rem;
+}
+
+.number-fields {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+
+.numero {
+    width: 3rem;
+    height: 3rem;
+    text-align: center;
+}

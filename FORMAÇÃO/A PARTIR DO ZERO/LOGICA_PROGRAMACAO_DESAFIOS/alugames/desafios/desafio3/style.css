@@ -1,0 +1,43 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+}
+
+.board-input {
+    width: 97vw;
+    height: 90vh;
+}
+
+.campo-input, .board-input {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.txt-input {
+    width: 12.5rem;
+    height: 1.2rem;
+    border-radius: 5px;
+    border-color: rgb(58, 58, 210);
+}
+
+.button-input, .icon {
+    cursor: pointer;
+    border: none;
+}
+
+.button-input {
+    width: 12.5rem;
+    height: 2rem;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(58, 58, 210);
+} .button-input:hover {
+    background-color: rgb(32, 32, 127);
+    transition: 1s;
+}
+
+.icon {
+    background: none;
+}
