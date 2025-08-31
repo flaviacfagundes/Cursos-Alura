@@ -3,8 +3,9 @@ function adicionar() {
     let produtoAdicionado = document.getElementById('produto').value;
     let quantidadeDeProduto = parseInt(document.getElementById('quantidade').value);
 
-    if (!quantidadeDeProduto) {
-        alert('Necessário informar a quantidade de produtos!');
+    if (!quantidadeDeProduto || quantidadeDeProduto <= 0) { // Desafio 01
+        alert('Quantidade inválida de produtos.');
+        document.getElementById('quantidade').value = '';
         return;
     }
 
