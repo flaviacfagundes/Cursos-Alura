@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/FORMAÇÃO/A PARTIR DO ZERO/LOGICA_PROGRAMACAO_DESAFIOS/ingresso/desafios/style.css">
+    <title>Desafios</title>
+</head>
+<body>
+    <section class="desafios">
+        <div class="desafio-3">
+            <div class="numero-1">
+                <input type="number" placeholder="00" id="num1">
+            </div>
+            <div class="sinais">
+                <select class="operacao" id="operacoes">
+                    <option value="adicao">+</option>
+                    <option value="subtracao">-</option>
+                    <option value="multiplicacao">*</option>
+                    <option value="divisao">/</option>
+                </select>
+            </div>
+            <div class="numero-2">
+                <input type="number" placeholder="00" id="num2">
+            </div>
+            <div>
+                <button class="btnOperacao" onclick="desafio03()">Calcular</button>
+            </div>
+        </div>
+        <div class="desafio-4">
+            <div class="campo-numero">
+                <input type="number" placeholder="00" id="numImparPar">
+                <button class="btnImparPar" onclick="desafio04()">Verificar</button>
+            </div>
+        </div>
+        <div class="desafio-5">
+            <div class="temperatura">
+                <input type="number" placeholder="00" id="numero-temperatura">
+            </div>
+            <div class="cel-fah">
+                <select class="celsius-fahrenheit" id="temperaturas">
+                    <option value="celcius">Celcius (°C)</option>
+                    <option value="fahrenheit">Fahrenheit (°F)</option>
+                </select>
+            </div>
+            <div>
+                <button class="btnConverter" onclick="desafio05()">Converter</button>
+            </div>
+        </div>
+    </section>
+</body>
+<script src="/FORMAÇÃO/A PARTIR DO ZERO/LOGICA_PROGRAMACAO_DESAFIOS/ingresso/desafios/main.js"></script>
+</html>

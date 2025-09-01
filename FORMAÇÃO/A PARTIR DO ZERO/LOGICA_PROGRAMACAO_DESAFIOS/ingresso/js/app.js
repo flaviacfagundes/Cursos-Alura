@@ -9,8 +9,8 @@ function comprar() {
     let superior = document.getElementById('qtd-superior');
     let inferior = document.getElementById('qtd-inferior');
 
-    if (!quantidade) {
-        alert('Necessário inserir a quantidade de ingressos!');
+    if (!quantidade || quantidade <= 0) {
+        alert('Necessário inserir uma quantidade válida de ingressos!');
         return;
     }
 
