@@ -21,7 +21,7 @@ O objetivo deste repositório é:
 - [x] Lógica de Programação com JavaScript
 - [x] Lógica de Programação: explore funções e listas
 - [x] Git e GitHub: compartilhando e colaborando em projetos
-- [ ] Lógica de Programação: praticando com desafios
+- [x] Lógica de Programação: praticando com desafios
 
 ---
 
