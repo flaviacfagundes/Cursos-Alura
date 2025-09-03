@@ -16,7 +16,7 @@
 
 ### **ALERT**
 
-Para passar uma mensagem para a pessoa que vai desenvolver o jogo, vamos usar o 'alert()'.
+Para passar uma mensagem para a pessoa que vai desenvolver o jogo, vamos usar o `alert()`.
 Dentro dos parenteses eu posso escrever essa mensagem, mas ela precisa estar entre aspas, duplas ou simples, as duas vão funcionar.
 
 > O ideal é que se você começa a programar usando aspas duplas (por exemplo), você usa as aspas duplas no projeto inteiro.
@@ -37,11 +37,11 @@ Dentro dos parenteses eu posso escrever essa mensagem, mas ela precisa estar ent
 ### **VARIAVEL LET**
 
 Para a gente conseguir guardar alguma informação no nosso programa, usamos um conceito chamado Variáveis.
-No Javascript, para criar essa váriavel, utilizamos o 'let' depois dá o nome da váriavel, que no JS, segue esse padrão = numeroSecreto.
+No Javascript, para criar essa váriavel, utilizamos o `let` depois dá o nome da váriavel, que no JS, segue esse padrão = numeroSecreto.
 
 > É importante que as váriaveiss tenham um nome que represente as funções delas.
 
-O 'let' significa que vamos separar um espaço na memória para guardar aquela informação.
+O `let` significa que vamos separar um espaço na memória para guardar aquela informação.
 Para atribuir um valor a uma váriavel, usamos somente um sinal de igual, mas para comparar usamos dois sinais de igual, no JS.
 
 ---
@@ -49,7 +49,7 @@ Para atribuir um valor a uma váriavel, usamos somente um sinal de igual, mas pa
 
 ### **PROMPT**
 
-Para permitir que o usuário possa escrever o número, vamos usar o 'prompt()'. Ele é parecido com o 'alert()', porém ele permite que uma mensagem 
+Para permitir que o usuário possa escrever o número, vamos usar o `prompt()`. Ele é parecido com o `alert()`, porém ele permite que uma mensagem 
 seja escrita.
 
 ---
@@ -61,7 +61,7 @@ Quando queremos fazer uma condição para validar se o número que o usuário co
 No Javascript a condição fica entre parênteses. Então → if (...)
 
 Continuando a estrutura `if` e `else` no Javascript, quando se coloca a condição entre parenteses, ela só será executada se for verdadeira, e o 
-código que será executado deverá estar entre chaves. O 'else' é colocado depois de se fechar as chaves do `if`.
+código que será executado deverá estar entre chaves. O `else` é colocado depois de se fechar as chaves do `if`.
 
 ---
 
@@ -94,14 +94,14 @@ os comandos console.log devem ser removidos ou desabilitados, pois podem causar 
 Usado para quando for juntar textos com valores de variáveis e até números diferentes.
 Usa-se crase ao invés das aspas, e para chamar a variável coloca um cifrão ($), e o nome da variável entre chaves.
 
-`texto ${nome_da_variavel}`
+    texto ${nome_da_variavel}
 
 ---
 
 
 ### **WHILE**
 
-A estrutura do while é pararecida com a estrutura if e else
+A estrutura do while é pararecida com a estrutura `if` e `else`
 
     while (condição) {
         código
@@ -112,7 +112,7 @@ A estrutura do while é pararecida com a estrutura if e else
 
 ### **BREAK**
 
-O 'break' é um comanfo que serve para parar a execução de um laço de repetição, como o 'while' ou o 'for'.
+O `break` é um comanfo que serve para parar a execução de um laço de repetição, como o `while` ou o `for`.
 
 ---
 
@@ -169,9 +169,11 @@ No caso a condição para verificar a palavra tentativa:
 
 Pode ser substituido por:
 
-    let palavraTentativa = tentativas > 1 ? 'tentativas' : 'tentativa';
-    
-    alert(`Isso aí! Você acertou o número secreto! (${numeroSecreto}) \nCom ${tentativas} ${palavraTentativa}.`);
+~~~~
+let palavraTentativa = tentativas > 1 ? 'tentativas' : 'tentativa';
+
+alert(`Isso aí! Você acertou o número secreto! (${numeroSecreto}) \nCom ${tentativas} ${palavraTentativa}.`);
+~~~~
 
 Lendo essa estrutura, seria:
 
@@ -188,9 +190,9 @@ Para gerar um número aleatório, usamos o `Math.random()`.
 
 Porém, ele gera um número pseudo aleatório entre 0 e 1. Para gerar um número aleatório entre 0 e 10, por exemplo, usamos o `Math.random() * 10`.
 Só que no `Math.random()`, o número 1 é ignorado, então para gerar um número aleatório entre 0 e 10, por exemplo, apenas somamos 1.
-
-`Math.random() * 10 + 1`
-
+~~~~
+Math.random() * 10 + 1
+~~~~
 Quando gerado esse número, vai ter um número inteiro depois do ponto, porém ainda vai continuar com vários números depois dele.
 
 ---
